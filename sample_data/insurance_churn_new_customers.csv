@@ -1,0 +1,301 @@
+customer_id,age,gender,marital_status,region,annual_income,policy_type,num_policies,policy_tenure_years,annual_premium,payment_method,auto_renew,late_payments_12m,num_claims_3y,total_claim_amount_3y,last_claim_status,service_calls_12m,complaints_12m,digital_engagement_score,sales_channel,last_contact_date
+C500001,77,Female,Married,West,40900.0,Auto,4,10.6,1024.82,Credit card,Yes,0,0,0.0,No claim,1,0,55.7,Broker,2024-12-30
+C500002,50,Male,Married,North,56300.0,Travel,2,1.2,212.02,Bank transfer,Yes,1,0,0.0,No claim,2,0,35.3,Call centre,2024-12-08
+C500003,65,Female,Married,South,36500.0,Auto,2,15.5,1571.8,Auto-debit,Yes,0,0,0.0,No claim,2,0,54.4,Broker,2025-07-31
+C500004,54,Female,Divorced,East,39500.0,Auto,1,0.6,1367.86,Credit card,Yes,1,1,506.21,Approved,1,0,65.6,Online,2026-08-04
+C500005,31,Male,Single,West,58700.0,Life,2,2.3,725.8,Bank transfer,Yes,1,1,10207.72,Approved,3,1,71.2,Online,2026-02-06
+C500006,51,Male,Married,West,51100.0,Auto,3,2.4,815.16,Credit card,Yes,1,0,0.0,No claim,4,0,67.9,Agent,2026-05-20
+C500007,76,Male,,South,40100.0,Auto,1,5.1,1819.28,Auto-debit,Yes,2,0,0.0,No claim,0,1,51.9,Online,2026-01-07
+C500008,78,Female,Married,East,113800.0,Health,2,1.2,2562.5,Auto-debit,Yes,0,0,0.0,No claim,0,1,46.0,Broker,2025-12-16
+C500009,77,Male,Married,Central,42200.0,Health,1,2.3,1521.21,Credit card,Yes,3,1,1205.83,Approved,2,0,49.1,Broker,2026-05-03
+C500010,57,Male,Single,Central,53500.0,Auto,1,3.6,661.45,Credit card,Yes,0,1,1180.24,Pending,2,0,61.3,Call centre,2026-02-02
+C500011,39,Male,Single,South,54100.0,Home,2,3.5,2486.65,Auto-debit,Yes,0,0,0.0,No claim,2,0,59.3,Agent,2025-02-18
+C500012,54,Male,Single,West,20200.0,Auto,1,5.8,1513.03,Credit card,No,0,1,2455.08,Approved,1,1,0.0,Agent,2025-09-03
+C500013,59,Female,Married,Central,175800.0,Life,2,3.8,788.93,Auto-debit,No,0,0,0.0,No claim,2,0,51.8,Agent,2025-12-23
+C500014,37,Male,Single,South,41800.0,Travel,1,3.5,477.01,Auto-debit,No,3,1,3033.79,Rejected,0,0,33.9,Call centre,2026-01-29
+C500015,77,Male,Single,East,75500.0,Auto,3,3.4,1904.54,Auto-debit,Yes,0,1,2402.96,Approved,0,1,45.3,Online,2025-09-27
+C500016,53,Female,Married,Central,20600.0,Auto,1,1.7,1522.19,Auto-debit,Yes,1,1,755.43,Approved,1,0,57.2,Online,2025-01-11
+C500017,41,Male,Married,Central,50200.0,Auto,3,8.1,796.74,Credit card,Yes,2,0,0.0,No claim,1,0,71.5,Online,2024-11-28
+C500018,48,Female,Married,Central,25900.0,Life,1,9.0,1436.65,Credit card,Yes,0,0,0.0,No claim,2,0,64.7,Agent,2025-02-11
+C500019,27,Male,Single,East,43100.0,Auto,1,12.4,1968.47,Bank transfer,Yes,0,1,2861.81,Approved,2,2,35.0,Online,2025-04-21
+C500020,56,Female,Married,West,95700.0,Travel,2,6.7,334.41,Auto-debit,Yes,2,0,0.0,No claim,0,2,46.6,Call centre,2025-06-23
+C500021,41,Male,Married,Central,77000.0,Health,1,4.9,3302.15,Bank transfer,No,1,1,585.7,Rejected,2,1,53.3,Agent,2025-07-19
+C500022,75,Female,Single,West,71600.0,Auto,4,6.6,1409.89,Cheque,No,1,0,0.0,No claim,3,1,36.0,Online,2025-08-07
+C500023,38,Female,Widowed,South,67900.0,Travel,1,6.3,432.67,Credit card,Yes,1,2,11192.74,Approved,0,0,54.9,Online,2025-04-15
+C500024,35,Male,Divorced,West,24600.0,Health,1,0.9,3212.32,Credit card,Yes,0,0,0.0,No claim,2,0,50.2,Agent,2025-08-22
+C500025,56,Male,Single,East,,Home,3,7.9,2128.07,Bank transfer,Yes,1,0,0.0,No claim,1,0,43.3,Online,2025-11-30
+C500026,39,Male,Divorced,East,69300.0,Life,1,1.5,787.34,Auto-debit,Yes,1,1,1209.9,Approved,0,0,,Agent,2025-12-23
+C500027,41,Female,Married,South,99900.0,Home,2,2.7,1860.49,Bank transfer,No,0,0,0.0,No claim,1,0,74.1,Broker,2025-09-15
+C500028,44,Male,Married,West,66500.0,Home,2,7.9,1471.31,Auto-debit,Yes,2,0,0.0,No claim,0,1,48.5,Online,2024-12-27
+C500029,61,Male,Married,North,70000.0,Auto,3,11.0,902.51,Credit card,Yes,2,0,0.0,No claim,1,0,5.9,Broker,2026-10-31
+C500030,36,Male,Divorced,West,69200.0,Health,1,3.0,3705.48,Credit card,No,2,1,5613.2,Rejected,2,0,60.5,Online,2025-08-13
+C500031,74,Female,Married,East,74200.0,Auto,2,9.3,1960.0,Credit card,No,1,1,794.12,Approved,1,0,54.0,Online,2025-07-08
+C500032,41,Female,Single,West,67300.0,Health,1,0.8,1813.49,Auto-debit,Yes,0,0,0.0,No claim,3,0,46.9,Agent,2025-01-17
+C500033,66,Female,Single,North,,Auto,2,11.7,720.6,Bank transfer,No,2,0,0.0,No claim,2,1,36.7,Online,2025-01-02
+C500034,76,Female,Married,East,83900.0,Life,2,1.0,1564.27,Auto-debit,No,0,1,1004.59,Approved,0,0,59.5,Online,2025-06-13
+C500035,61,Male,Single,South,36100.0,Health,1,4.0,2041.38,Bank transfer,No,0,0,0.0,No claim,0,1,4.0,Online,2025-06-29
+C500036,43,Male,Married,West,28000.0,Health,1,10.2,3277.38,Bank transfer,No,2,1,731.77,Approved,4,0,89.5,Online,2025-12-23
+C500037,60,Male,Married,Central,57400.0,Life,2,8.7,851.51,Bank transfer,Yes,0,0,0.0,No claim,1,1,57.8,Online,2026-09-20
+C500038,66,Female,Married,West,29700.0,Auto,1,3.2,1453.33,Auto-debit,Yes,1,0,0.0,No claim,1,0,46.4,Online,2025-10-25
+C500039,65,Female,Single,South,33300.0,Home,2,1.3,1924.83,Credit card,No,0,4,13714.78,Approved,3,0,44.0,Online,2025-07-31
+C500040,23,Male,Married,West,56700.0,Auto,1,1.5,1392.26,Auto-debit,Yes,1,1,491.29,Approved,0,0,89.4,Broker,2026-07-09
+C500041,26,Male,Married,North,37400.0,Travel,2,1.7,507.13,Bank transfer,No,1,1,7090.99,Approved,1,1,43.1,Online,2026-04-22
+C500042,38,Female,Single,North,36300.0,Auto,3,8.0,854.2,Credit card,Yes,0,0,0.0,No claim,1,0,42.2,Agent,2025-07-14
+C500043,41,Male,Single,West,66500.0,Home,2,2.5,1294.98,Bank transfer,No,1,0,0.0,No claim,0,0,28.8,Online,2025-11-19
+C500044,62,Female,Married,South,89300.0,Auto,2,9.1,1023.13,Auto-debit,Yes,0,0,0.0,No claim,2,1,49.8,Online,2025-11-08
+C500045,26,Male,Married,Central,75300.0,Auto,1,5.0,789.91,Auto-debit,Yes,0,0,0.0,No claim,2,0,,Broker,2025-02-19
+C500046,47,Male,Single,West,81200.0,Auto,1,2.7,1532.7,Auto-debit,Yes,2,0,0.0,No claim,1,1,55.5,Online,2026-03-06
+C500047,67,Male,Married,West,27800.0,Auto,2,7.0,771.18,Credit card,Yes,0,0,0.0,No claim,0,0,11.0,Broker,2026-07-31
+C500048,73,Female,Single,South,72700.0,Life,2,1.7,1389.45,Cheque,Yes,0,0,0.0,No claim,1,0,71.1,Online,2026-03-17
+C500049,24,Male,Single,South,53900.0,Home,2,1.4,879.12,Auto-debit,No,2,0,0.0,No claim,2,0,,Online,2025-10-15
+C500050,46,Female,Married,South,,Home,2,1.6,1342.47,Cheque,No,0,0,0.0,No claim,3,0,54.1,Call centre,2026-07-28
+C500051,38,Female,Married,West,47300.0,Life,2,5.8,589.25,Credit card,No,0,0,0.0,No claim,0,0,43.4,Agent,2025-09-24
+C500052,57,Female,Married,West,45600.0,Auto,3,0.9,775.57,Credit card,Yes,1,0,0.0,No claim,1,0,26.4,Agent,2025-04-10
+C500053,70,Female,Married,South,33800.0,Home,1,9.4,1609.92,Bank transfer,No,0,0,0.0,No claim,1,0,51.9,Online,2026-04-30
+C500054,55,Male,Single,West,22500.0,Life,4,5.6,1275.5,Credit card,Yes,0,1,3815.57,Rejected,0,2,64.1,Online,2026-06-11
+C500055,55,Female,Married,West,64000.0,Auto,2,5.3,1891.16,Auto-debit,Yes,0,1,1700.84,Approved,3,0,73.9,Online,2025-01-29
+C500056,56,Male,Single,East,60800.0,Health,1,1.0,1684.33,Credit card,Yes,0,0,0.0,No claim,1,0,60.5,Agent,2025-04-29
+C500057,38,Male,Married,Central,98600.0,Auto,2,5.8,1795.14,Bank transfer,Yes,0,0,0.0,No claim,2,0,77.1,Broker,2026-08-26
+C500058,59,Female,Single,North,90500.0,Auto,2,17.2,1414.61,Bank transfer,No,1,0,0.0,No claim,3,0,47.7,Online,2025-03-15
+C500059,30,Female,Married,South,58900.0,Auto,2,2.5,861.89,Cheque,Yes,2,1,796.34,Approved,2,0,,Broker,2025-02-05
+C500060,51,Male,Single,North,79500.0,Home,2,13.4,1834.27,Auto-debit,Yes,1,0,0.0,No claim,0,0,54.8,Agent,2026-03-20
+C500061,74,Male,Married,North,108300.0,Life,3,5.7,1195.85,Bank transfer,No,1,0,0.0,No claim,1,0,67.6,Online,2026-07-01
+C500062,32,Male,Widowed,Central,39600.0,Home,2,3.3,1846.06,Credit card,Yes,0,0,0.0,No claim,2,1,100.0,Call centre,2026-07-08
+C500063,26,Male,Single,West,48100.0,Auto,1,2.2,713.97,Auto-debit,Yes,0,0,0.0,No claim,1,1,,Online,2025-11-04
+C500064,25,Female,,South,61200.0,Life,2,3.7,840.01,Bank transfer,Yes,1,0,0.0,No claim,0,0,46.5,Online,2025-04-27
+C500065,22,Male,Single,South,29400.0,Life,1,8.6,1139.9,Cheque,No,2,2,5274.08,Approved,1,0,32.9,Broker,2025-04-06
+C500066,35,Male,,South,33300.0,Home,1,3.5,2245.16,Bank transfer,Yes,1,2,4100.55,Approved,0,1,87.6,Broker,2026-08-24
+C500067,37,Female,Married,South,,Home,1,3.1,2148.81,Auto-debit,Yes,0,1,639.13,Rejected,3,0,44.5,Online,2026-04-07
+C500068,26,Female,Single,West,44600.0,Life,1,5.0,913.59,Bank transfer,No,1,0,0.0,No claim,3,0,60.0,Online,2025-04-16
+C500069,70,Male,Divorced,Central,66400.0,Auto,4,7.9,1975.68,Credit card,Yes,2,1,2032.91,Approved,2,0,26.7,Agent,2025-01-18
+C500070,27,Male,Married,North,,Auto,3,0.7,775.25,Credit card,Yes,1,1,2991.11,Approved,2,0,,Agent,2025-03-31
+C500071,37,Male,Single,East,94400.0,Home,4,5.7,1566.36,Credit card,No,2,1,430.68,Approved,0,0,52.0,Broker,2024-12-29
+C500072,37,Male,Married,South,61300.0,Health,2,10.7,2572.56,Auto-debit,No,2,1,1923.49,Approved,1,0,54.3,Agent,2025-12-20
+C500073,54,Female,Single,South,57500.0,Auto,2,5.9,1066.36,Auto-debit,Yes,0,1,1753.42,Approved,0,0,36.2,Call centre,2025-08-25
+C500074,55,Male,Married,North,47800.0,Auto,3,7.4,1395.97,Credit card,Yes,2,0,0.0,No claim,0,1,38.6,Agent,2026-07-09
+C500075,46,Female,Single,North,34200.0,Auto,1,1.0,1857.82,Bank transfer,Yes,0,1,1651.71,Rejected,1,0,30.2,Agent,2026-08-24
+C500076,41,Male,Single,Central,27000.0,Health,1,6.0,2199.51,Auto-debit,No,0,1,2815.27,Rejected,0,0,69.4,Agent,2026-03-26
+C500077,60,Female,Single,East,179900.0,Home,2,2.6,2084.1,Credit card,Yes,0,0,0.0,No claim,3,0,48.8,Call centre,2024-12-23
+C500078,66,Female,Single,South,62400.0,Health,2,5.1,2972.19,Credit card,No,0,2,1435.54,Rejected,0,0,51.3,Agent,2025-04-14
+C500079,48,Female,Widowed,East,86100.0,Life,3,6.3,671.92,Cheque,No,0,1,3119.98,Approved,4,0,58.6,Agent,2025-09-15
+C500080,77,Female,Married,North,36400.0,Home,2,2.4,989.12,Auto-debit,No,4,1,3422.4,Approved,1,0,12.5,Agent,2025-07-01
+C500081,66,Female,Divorced,East,66900.0,Life,2,9.0,1131.88,Auto-debit,No,1,0,0.0,No claim,3,1,18.1,Agent,2025-06-23
+C500082,40,Male,Single,South,64300.0,Life,1,8.7,1384.84,Credit card,Yes,0,4,3853.53,Approved,2,0,65.6,Call centre,2024-12-09
+C500083,77,Female,Divorced,West,36700.0,Health,1,2.0,3743.62,Auto-debit,Yes,2,0,0.0,No claim,1,0,1.4,Online,2025-04-25
+C500084,34,Female,Married,West,134300.0,Home,2,5.4,1695.01,Bank transfer,Yes,1,0,0.0,No claim,0,1,77.8,Call centre,2026-10-12
+C500085,61,Male,Married,East,106000.0,Health,1,6.0,3710.07,Auto-debit,No,1,1,5976.06,Approved,0,0,34.7,Broker,2026-08-24
+C500086,61,Female,Married,North,50400.0,Home,1,2.2,1207.78,Credit card,Yes,1,0,0.0,No claim,1,1,33.6,Agent,2026-02-14
+C500087,39,Female,Married,East,89600.0,Home,3,14.8,1455.97,Cheque,No,3,2,19902.66,Approved,2,0,52.2,Agent,2025-11-24
+C500088,54,Female,Married,West,,Health,1,1.6,2170.67,Cheque,Yes,2,0,0.0,No claim,2,0,100.0,Agent,2025-06-09
+C500089,41,Female,Married,Central,70700.0,Auto,1,2.8,1695.01,Auto-debit,No,3,0,0.0,No claim,0,0,,Agent,2026-06-02
+C500090,66,Female,,North,69100.0,Auto,1,1.9,1102.96,Bank transfer,Yes,0,0,0.0,No claim,0,0,49.5,Online,2025-03-22
+C500091,38,Male,Married,West,,Home,1,1.4,2261.57,Credit card,Yes,1,0,0.0,No claim,1,1,46.2,Broker,2026-07-27
+C500092,57,Male,Married,South,54400.0,Home,2,0.3,1052.21,Auto-debit,Yes,1,0,0.0,No claim,2,0,37.4,Online,2025-05-01
+C500093,51,Male,Single,North,28400.0,Auto,2,21.5,1042.7,Cheque,Yes,0,1,5159.54,Approved,0,0,22.3,Agent,2025-03-08
+C500094,37,Female,Married,East,44700.0,Health,2,15.5,3586.16,Credit card,Yes,1,0,0.0,No claim,1,0,83.2,Agent,2025-06-05
+C500095,73,Female,Single,South,66800.0,Home,3,4.2,1077.95,Bank transfer,No,0,1,1023.99,Pending,3,0,34.4,Agent,2026-04-21
+C500096,74,Female,Married,North,48500.0,Auto,2,1.3,1628.19,Credit card,Yes,1,0,0.0,No claim,2,1,52.8,Agent,2025-06-16
+C500097,50,Female,Married,Central,89100.0,Health,2,5.9,2358.33,Auto-debit,No,0,1,1509.63,Approved,0,1,66.1,Broker,2025-04-02
+C500098,54,Female,Divorced,Central,56700.0,Auto,1,4.4,729.12,Bank transfer,No,1,0,0.0,No claim,4,0,42.2,Call centre,2026-04-26
+C500099,37,Male,Single,South,37200.0,Auto,1,5.1,1710.49,Auto-debit,Yes,0,0,0.0,No claim,2,0,67.5,Online,2025-06-19
+C500100,63,Male,Single,Central,30900.0,Auto,2,2.0,1729.33,Auto-debit,Yes,2,2,620.03,Approved,1,0,49.0,Broker,2025-02-21
+C500101,70,Female,Single,Central,35700.0,Health,5,3.8,1973.11,Auto-debit,Yes,0,1,3280.96,Approved,1,0,39.7,Call centre,2025-08-08
+C500102,60,Female,Married,Central,53300.0,Life,2,7.0,763.82,Credit card,Yes,0,0,0.0,No claim,1,0,65.2,Agent,2025-12-06
+C500103,47,Male,Married,Central,49200.0,Health,4,4.1,1393.56,Auto-debit,No,1,0,0.0,No claim,3,0,58.4,Online,2025-03-06
+C500104,66,Male,Married,East,15900.0,Home,1,6.6,2324.43,Credit card,No,3,0,0.0,No claim,0,0,48.5,Agent,2026-04-02
+C500105,40,Male,Single,South,69200.0,Life,1,6.3,766.13,Auto-debit,Yes,0,2,4433.17,Approved,1,1,52.7,Agent,2026-05-30
+C500106,65,Male,Divorced,West,110900.0,Home,3,2.6,1800.64,Credit card,Yes,3,0,0.0,No claim,0,0,14.1,Agent,2024-11-22
+C500107,31,Male,Married,South,39600.0,Auto,2,7.0,830.65,Cheque,No,0,1,2113.54,Rejected,1,1,69.2,Agent,2025-06-27
+C500108,45,Male,Divorced,South,66800.0,Auto,1,2.7,1905.6,Auto-debit,Yes,2,0,0.0,No claim,4,1,59.0,Online,2026-06-04
+C500109,58,Male,Married,Central,38300.0,Health,1,8.9,2828.33,Cheque,Yes,2,0,0.0,No claim,4,0,81.5,Broker,2025-02-06
+C500110,23,Female,Married,South,97300.0,Life,2,1.7,1487.2,Credit card,Yes,1,1,3902.78,Approved,0,0,68.7,Agent,2026-01-31
+C500111,65,Male,Single,South,,Home,1,4.2,1698.73,Bank transfer,No,1,0,0.0,No claim,3,0,1.2,Online,2025-01-31
+C500112,49,Male,Single,South,50000.0,Auto,1,5.7,1669.83,Credit card,Yes,3,1,1838.01,Approved,1,1,61.4,Online,2025-02-16
+C500113,50,Female,Married,West,103500.0,Life,2,4.3,1367.16,Credit card,No,1,2,12048.27,Rejected,2,0,79.7,Online,2026-02-11
+C500114,73,Male,Married,South,82600.0,Auto,1,5.0,1211.22,Credit card,Yes,0,1,1147.67,Approved,2,0,,Online,2025-05-21
+C500115,39,Female,Divorced,East,47000.0,Life,2,11.7,1580.12,Bank transfer,Yes,0,2,18734.18,Approved,4,0,3.9,Online,2026-08-26
+C500116,29,Female,Divorced,East,94500.0,Home,2,1.2,1508.67,Auto-debit,No,0,0,0.0,No claim,1,1,59.8,Online,2025-12-30
+C500117,29,Male,Single,West,72300.0,Health,1,6.1,2371.25,Auto-debit,Yes,1,0,0.0,No claim,2,0,60.6,Online,2025-04-07
+C500118,67,Male,Married,Central,87500.0,Health,4,1.3,3234.85,Credit card,No,1,2,4121.92,Approved,4,0,59.7,Agent,2026-02-16
+C500119,42,Female,Single,West,108200.0,Travel,1,8.1,271.12,Credit card,No,0,0,0.0,No claim,3,0,45.3,Agent,2026-04-26
+C500120,59,Male,Married,West,113000.0,Home,1,4.4,2099.45,Bank transfer,No,0,2,932.81,Rejected,2,0,52.3,Agent,2025-01-28
+C500121,24,Female,Married,East,36300.0,Life,1,5.5,656.74,Auto-debit,Yes,0,0,0.0,No claim,2,0,70.4,Online,2025-06-23
+C500122,62,Female,Married,South,37200.0,Auto,2,3.3,738.43,Auto-debit,Yes,3,0,0.0,No claim,1,1,23.2,Call centre,2026-08-23
+C500123,72,Male,Married,North,68700.0,Life,1,0.6,1211.83,Credit card,No,1,0,0.0,No claim,4,0,58.4,Online,2026-06-08
+C500124,33,Female,Single,West,47400.0,Health,1,4.1,1852.93,Cheque,Yes,1,1,1734.13,Approved,1,0,50.9,Online,2026-03-07
+C500125,73,Male,Single,Central,13100.0,Auto,1,7.4,804.38,Credit card,No,0,1,3194.57,Rejected,1,0,20.4,Agent,2025-03-31
+C500126,25,Male,Married,South,84100.0,Life,3,2.8,905.37,Bank transfer,Yes,1,0,0.0,No claim,2,0,64.4,Agent,2025-05-25
+C500127,42,Male,Single,East,30700.0,Life,1,0.9,1238.66,Auto-debit,Yes,2,1,7505.39,Approved,2,0,79.6,Broker,2026-07-09
+C500128,36,Male,Married,East,47400.0,Health,1,0.9,1963.0,Credit card,Yes,0,0,0.0,No claim,2,0,51.6,Online,2025-08-14
+C500129,37,Male,Married,Central,39800.0,Health,1,3.0,2747.24,Bank transfer,No,2,1,9232.0,Approved,2,0,82.5,Agent,2025-12-14
+C500130,57,Male,Single,North,46300.0,Home,1,10.0,926.26,Bank transfer,Yes,1,0,0.0,No claim,1,2,96.1,Agent,2026-06-27
+C500131,65,Female,Married,North,71800.0,Home,1,4.3,1955.55,Credit card,Yes,0,0,0.0,No claim,2,1,46.1,Call centre,2024-11-13
+C500132,43,Male,Single,North,24000.0,Home,3,5.2,1124.47,Auto-debit,Yes,1,0,0.0,No claim,2,0,73.3,Online,2025-10-27
+C500133,34,Male,Married,Central,47000.0,Life,2,4.6,690.48,Cheque,Yes,0,0,0.0,No claim,0,0,72.7,Agent,2025-07-01
+C500134,36,Female,Divorced,West,27100.0,Home,1,2.2,1951.47,Auto-debit,No,0,0,0.0,No claim,2,0,68.3,Broker,2026-01-24
+C500135,42,Male,Married,Central,46600.0,Health,2,2.3,2706.83,Cheque,No,1,0,0.0,No claim,3,1,58.9,Agent,2026-06-29
+C500136,44,Male,Single,North,61000.0,Home,2,2.6,1524.2,Credit card,No,2,1,656.36,Approved,1,0,35.0,Broker,2025-08-18
+C500137,78,Female,Divorced,North,83800.0,Life,2,3.3,1147.43,Credit card,No,0,0,0.0,No claim,0,0,17.1,Broker,2025-04-30
+C500138,63,Female,Single,Central,48600.0,Home,1,10.9,1968.53,Credit card,No,1,0,0.0,No claim,3,0,55.2,Online,2025-07-25
+C500139,46,Male,Married,Central,165500.0,Home,1,4.7,1184.56,Bank transfer,Yes,0,0,0.0,No claim,1,0,,Online,2025-07-08
+C500140,36,Female,Single,North,,Home,1,2.7,1753.03,Auto-debit,No,2,0,0.0,No claim,3,1,56.3,Agent,2024-12-22
+C500141,21,Female,Married,North,94500.0,Health,2,2.7,1589.06,Credit card,Yes,0,1,2393.1,Approved,0,0,74.8,Agent,2026-08-02
+C500142,53,Male,Divorced,North,75600.0,Life,4,2.6,796.69,Credit card,No,1,0,0.0,No claim,1,1,30.0,Agent,2026-01-24
+C500143,21,Female,Single,Central,48200.0,Home,3,7.8,2096.11,Cheque,Yes,4,0,0.0,No claim,0,0,71.9,Online,2025-03-02
+C500144,44,Male,Married,North,43700.0,Life,2,3.5,581.65,Cheque,Yes,0,2,1174.22,Approved,1,1,65.4,Agent,2026-03-30
+C500145,34,Male,Divorced,South,35900.0,Auto,2,12.8,1368.08,Credit card,Yes,0,2,6606.03,Approved,3,0,65.1,Agent,2025-01-15
+C500146,79,Male,Single,West,55000.0,Health,1,5.1,3582.05,Credit card,Yes,1,1,8070.96,Approved,1,0,56.6,Call centre,2026-05-05
+C500147,79,Female,Married,North,13800.0,Travel,1,1.6,380.87,Auto-debit,Yes,1,1,2686.38,Approved,4,0,12.7,Online,2026-06-24
+C500148,71,Female,Divorced,Central,43500.0,Health,1,7.1,1744.25,Credit card,Yes,1,1,2492.61,Approved,1,0,17.2,Agent,2025-10-18
+C500149,50,Male,Married,Central,53400.0,Health,1,5.0,2264.31,Auto-debit,No,0,0,0.0,No claim,1,0,51.1,Online,2025-06-16
+C500150,63,Female,Married,North,28900.0,Auto,2,10.0,1201.76,Bank transfer,Yes,1,2,2041.68,Approved,1,0,32.2,Online,2026-03-24
+C500151,45,Female,Single,South,33400.0,Home,4,9.8,1485.2,Auto-debit,Yes,1,0,0.0,No claim,5,0,68.2,Broker,2025-05-25
+C500152,53,Male,Divorced,South,65000.0,Home,1,1.5,1276.73,Bank transfer,Yes,0,0,0.0,No claim,1,0,48.6,Call centre,2025-04-24
+C500153,26,Female,Divorced,Central,71200.0,Life,1,2.6,1299.73,Cheque,Yes,0,1,1514.34,Pending,2,0,17.5,Agent,2024-11-24
+C500154,44,Male,Single,East,62300.0,Travel,2,6.6,488.74,Auto-debit,Yes,1,2,5228.29,Approved,0,0,58.2,Agent,2025-04-18
+C500155,51,Female,Divorced,Central,19500.0,Home,1,8.7,1923.95,Auto-debit,Yes,0,2,2589.48,Approved,0,0,60.7,Online,2026-02-22
+C500156,60,Male,Married,South,125000.0,Auto,1,17.4,1848.66,Credit card,Yes,1,0,0.0,No claim,2,0,57.1,Broker,2026-10-15
+C500157,41,Female,Single,North,48800.0,Travel,5,2.1,395.49,Auto-debit,Yes,1,2,3235.48,Approved,1,0,80.8,Online,2026-07-28
+C500158,70,Male,Single,South,210100.0,Auto,1,4.9,871.62,Auto-debit,Yes,0,0,0.0,No claim,1,0,51.1,Online,2025-06-09
+C500159,39,Male,Married,South,53100.0,Life,2,0.7,1584.02,Credit card,Yes,0,0,0.0,No claim,3,0,48.3,Broker,2025-03-03
+C500160,29,Male,Single,East,69000.0,Life,5,4.0,688.78,Bank transfer,Yes,0,0,0.0,No claim,4,0,40.3,Online,2026-02-28
+C500161,71,Female,Married,North,44300.0,Auto,1,4.6,1218.63,Bank transfer,Yes,0,0,0.0,No claim,1,0,19.9,Call centre,2025-08-27
+C500162,23,Female,Single,South,72100.0,Travel,2,9.1,331.77,Credit card,Yes,1,1,685.45,Rejected,1,0,56.8,Agent,2025-01-16
+C500163,44,Male,Single,Central,117300.0,Home,3,3.8,1512.09,Auto-debit,No,1,1,2352.94,Approved,2,0,32.6,Broker,2025-11-28
+C500164,48,Female,Married,North,67500.0,Home,3,14.5,1705.24,Auto-debit,No,1,1,2010.56,Approved,1,0,52.4,Agent,2026-08-17
+C500165,21,Male,Widowed,Central,85500.0,Auto,1,6.4,907.23,Credit card,No,0,0,0.0,No claim,2,0,63.3,Agent,2025-10-05
+C500166,36,Female,Married,East,73200.0,Auto,1,4.0,856.76,Credit card,No,1,1,5250.96,Approved,1,1,79.4,Agent,2025-03-11
+C500167,70,Female,Single,Central,25700.0,Home,1,1.4,1978.66,Credit card,No,3,0,0.0,No claim,2,0,50.2,Online,2025-03-15
+C500168,73,Female,Married,East,72100.0,Travel,2,2.8,250.68,Credit card,No,1,1,525.98,Approved,4,0,,Agent,2026-08-10
+C500169,45,Female,Married,East,39800.0,Health,1,1.0,3357.1,Bank transfer,No,1,2,5511.06,Approved,1,0,61.7,Agent,2026-04-26
+C500170,36,Male,Widowed,South,67700.0,Home,1,2.5,1093.25,Bank transfer,Yes,0,1,4883.42,Approved,2,0,54.9,Broker,2025-09-21
+C500171,37,Female,Divorced,North,34800.0,Health,2,6.1,3161.23,Bank transfer,No,1,0,0.0,No claim,7,1,26.7,Broker,2026-09-26
+C500172,74,Male,Married,West,99200.0,Life,1,5.6,848.6,Credit card,Yes,2,0,0.0,No claim,2,0,61.1,Agent,2024-11-11
+C500173,76,Female,,North,42300.0,Life,1,4.3,1140.65,Credit card,Yes,1,1,628.58,Rejected,0,0,43.8,Online,2025-01-07
+C500174,50,Male,Single,North,139400.0,Home,1,7.2,2366.75,Auto-debit,Yes,0,0,0.0,No claim,1,0,,Online,2026-03-08
+C500175,47,Female,Single,South,46300.0,Health,2,4.1,3803.87,Credit card,Yes,0,0,0.0,No claim,2,0,70.6,Online,2026-02-18
+C500176,70,Male,Married,South,80200.0,Auto,1,6.5,1267.52,Credit card,Yes,0,1,3000.45,Approved,1,1,21.9,Online,2025-08-25
+C500177,38,Female,Single,West,30100.0,Auto,1,1.4,1737.64,Bank transfer,Yes,0,0,0.0,No claim,2,0,40.8,Agent,2025-02-06
+C500178,47,Female,Married,West,59000.0,Home,2,9.7,1657.78,Credit card,No,1,2,4081.85,Approved,1,0,53.5,Online,2024-11-30
+C500179,47,Male,Married,West,38800.0,Auto,3,1.7,1433.32,Auto-debit,Yes,1,0,0.0,No claim,2,0,70.9,Broker,2025-02-21
+C500180,63,Female,Single,Central,70800.0,Home,3,2.7,1091.43,Auto-debit,Yes,0,2,12383.32,Approved,2,2,56.9,Online,2026-03-13
+C500181,23,Female,Single,East,104900.0,Auto,2,1.3,881.92,Auto-debit,Yes,0,1,896.23,Rejected,1,0,100.0,Agent,2025-09-28
+C500182,78,Male,Single,Central,90000.0,Auto,1,5.8,951.13,Auto-debit,No,0,0,0.0,No claim,3,0,37.1,Broker,2025-05-18
+C500183,65,Male,Single,North,41200.0,Home,1,3.6,2074.09,Bank transfer,Yes,0,1,963.08,Rejected,0,0,51.7,Broker,2025-02-14
+C500184,30,Female,Widowed,South,31800.0,Home,1,10.9,1585.65,Bank transfer,No,1,2,4102.01,Approved,1,0,78.3,Online,2026-01-31
+C500185,64,Female,Single,South,46100.0,Home,2,4.4,1135.82,Cheque,No,0,1,496.12,Approved,1,0,43.4,Online,2024-11-22
+C500186,36,Female,Married,West,33700.0,Life,2,2.0,1523.91,Auto-debit,Yes,0,0,0.0,No claim,1,0,54.6,Online,2024-12-09
+C500187,45,Female,Single,North,86500.0,Home,3,5.8,1261.45,Credit card,No,1,0,0.0,No claim,1,0,63.5,Call centre,2026-05-03
+C500188,51,Female,,East,63300.0,Health,1,2.5,2531.72,Credit card,Yes,1,0,0.0,No claim,0,0,43.3,Call centre,2024-12-22
+C500189,61,Male,Divorced,South,70600.0,Auto,1,8.0,1004.49,Auto-debit,Yes,1,1,2580.16,Approved,2,0,55.5,Agent,2026-02-08
+C500190,43,Female,Married,Central,28200.0,Life,3,5.3,870.55,Auto-debit,Yes,1,2,7977.73,Approved,1,0,32.7,Broker,2024-12-01
+C500191,33,Female,Married,Central,34900.0,Auto,2,4.7,968.8,Credit card,No,0,0,0.0,No claim,1,0,61.2,Call centre,2025-11-03
+C500192,68,Female,Married,East,35000.0,Home,4,9.6,1972.51,Auto-debit,No,0,0,0.0,No claim,1,0,33.0,Broker,2025-08-03
+C500193,26,Male,Single,North,62600.0,Home,2,5.6,1470.95,Bank transfer,Yes,0,0,0.0,No claim,3,0,50.6,Online,2025-03-11
+C500194,75,Male,Married,Central,63600.0,Travel,3,6.0,365.71,Auto-debit,Yes,0,0,0.0,No claim,0,1,61.0,Online,2025-09-28
+C500195,71,Male,Divorced,South,20000.0,Auto,2,3.5,1185.4,Bank transfer,Yes,3,0,0.0,No claim,3,0,44.9,Online,2026-03-09
+C500196,54,Male,Married,Central,95700.0,Home,1,4.2,1521.13,Bank transfer,No,3,1,2259.68,Approved,0,0,56.8,Agent,2026-03-14
+C500197,47,Male,Single,East,129900.0,Home,1,3.4,1923.73,Auto-debit,Yes,0,0,0.0,No claim,2,1,58.7,Online,2024-12-02
+C500198,28,Female,Married,South,24000.0,Life,1,6.1,1578.9,Bank transfer,No,0,0,0.0,No claim,2,1,,Call centre,2025-09-04
+C500199,69,Male,Married,South,36300.0,Health,2,14.8,2436.64,Cheque,Yes,0,0,0.0,No claim,1,0,58.8,Online,2026-07-17
+C500200,43,Female,Divorced,South,76000.0,Travel,2,10.5,277.05,Cheque,Yes,1,0,0.0,No claim,0,0,87.8,Agent,2025-05-20
+C500201,55,Male,Married,Central,38300.0,Home,3,5.6,1177.31,Auto-debit,Yes,1,1,2012.93,Approved,3,0,,Broker,2025-06-30
+C500202,39,Female,Divorced,North,45800.0,Home,3,1.7,1666.42,Auto-debit,Yes,2,1,3831.7,Approved,1,0,44.0,Agent,2026-04-28
+C500203,58,Male,Single,East,49300.0,Health,3,1.8,3362.06,Auto-debit,Yes,1,1,4210.96,Pending,1,0,54.6,Broker,2026-07-19
+C500204,59,Male,Married,Central,23800.0,Life,1,7.6,1449.82,Auto-debit,Yes,2,0,0.0,No claim,0,0,66.5,Agent,2026-05-10
+C500205,22,Male,Single,East,41900.0,Auto,1,1.5,1287.42,Credit card,No,0,0,0.0,No claim,2,1,96.5,Broker,2025-01-12
+C500206,35,Female,Single,Central,31000.0,Travel,1,23.9,240.91,Auto-debit,Yes,0,0,0.0,No claim,0,0,42.8,Online,2025-01-03
+C500207,52,Female,Single,East,45600.0,Home,1,4.7,2050.58,Bank transfer,Yes,0,1,2585.48,Approved,3,0,48.5,Agent,2026-07-16
+C500208,26,Male,Married,Central,54200.0,Home,1,2.9,1279.19,Credit card,No,1,0,0.0,No claim,2,0,62.5,Online,2026-04-14
+C500209,30,Female,Single,East,60900.0,Health,3,3.7,1596.73,Auto-debit,No,0,0,0.0,No claim,0,1,48.3,Agent,2026-08-21
+C500210,51,Male,Married,East,56100.0,Auto,2,1.8,950.54,Cheque,No,0,0,0.0,No claim,3,0,33.7,Broker,2026-02-28
+C500211,42,Male,Divorced,Central,38700.0,Travel,1,8.4,392.89,Auto-debit,Yes,1,0,0.0,No claim,1,0,49.3,Call centre,2025-01-09
+C500212,37,Male,Divorced,North,59300.0,Life,2,4.1,976.84,Cheque,Yes,0,0,0.0,No claim,3,0,29.0,Online,2026-04-25
+C500213,76,Female,Married,North,134600.0,Life,2,7.9,1379.56,Auto-debit,Yes,1,0,0.0,No claim,4,1,21.1,Call centre,2026-04-13
+C500214,50,Female,Single,West,36600.0,Life,2,2.8,1152.91,Cheque,Yes,2,0,0.0,No claim,0,0,,Call centre,2025-11-22
+C500215,52,Male,Married,Central,13100.0,Home,1,8.3,1465.17,Bank transfer,No,0,0,0.0,No claim,0,1,74.2,Online,2025-10-10
+C500216,41,Female,Single,East,33000.0,Health,1,3.0,1822.88,Credit card,Yes,0,0,0.0,No claim,1,0,42.0,Agent,2026-07-21
+C500217,41,Female,Single,North,31000.0,Health,2,5.6,3564.41,Auto-debit,Yes,1,0,0.0,No claim,2,0,78.3,Broker,2025-06-01
+C500218,66,Male,Single,East,24200.0,Health,1,10.6,1771.98,Auto-debit,Yes,2,0,0.0,No claim,1,1,20.5,Agent,2026-07-20
+C500219,50,Female,Single,South,41500.0,Life,2,1.2,1586.78,Auto-debit,No,0,1,786.06,Approved,0,1,49.8,Agent,2026-01-27
+C500220,36,Female,Married,North,36400.0,Auto,2,5.7,1298.23,Credit card,No,0,0,0.0,No claim,4,0,47.3,Broker,2026-08-04
+C500221,21,Female,Single,North,52000.0,Home,3,2.3,1864.16,Auto-debit,Yes,0,3,15758.78,Approved,2,0,,Agent,2025-08-07
+C500222,64,Female,Single,West,67000.0,Home,2,6.3,2448.27,Auto-debit,No,0,1,2172.4,Approved,5,1,70.4,Broker,2025-04-19
+C500223,51,Male,Single,South,161000.0,Home,1,6.4,2365.31,Auto-debit,No,0,3,12727.4,Rejected,0,0,76.2,Broker,2024-11-16
+C500224,27,Male,Married,South,72000.0,Life,3,1.8,978.07,Auto-debit,Yes,2,0,0.0,No claim,3,2,80.8,Call centre,2024-12-31
+C500225,61,Female,Married,East,52100.0,Auto,2,4.7,1894.55,Auto-debit,Yes,1,2,4450.61,Pending,2,0,38.0,Broker,2025-07-22
+C500226,67,Male,Single,Central,21700.0,Home,1,4.3,1540.87,Cheque,Yes,0,1,2090.01,Approved,4,0,39.1,Agent,2025-09-13
+C500227,60,Female,Married,East,27000.0,Health,2,16.6,1652.39,Auto-debit,Yes,1,0,0.0,No claim,1,0,65.4,Online,2024-12-19
+C500228,79,Male,Married,South,31200.0,Life,1,11.0,646.24,Auto-debit,No,2,1,4238.2,Rejected,1,1,32.3,Online,2026-05-08
+C500229,40,Female,Single,East,46100.0,Life,1,4.3,1293.95,Bank transfer,Yes,0,1,1064.5,Approved,1,0,87.1,Online,2026-08-03
+C500230,37,Female,Divorced,Central,21900.0,Home,1,5.1,1710.91,Credit card,Yes,0,0,0.0,No claim,1,0,61.3,Agent,2025-10-12
+C500231,69,Female,Single,South,58300.0,Auto,1,3.6,1852.45,Auto-debit,Yes,0,1,635.34,Approved,1,0,13.9,Agent,2026-10-08
+C500232,79,Female,Married,North,98700.0,Life,2,3.6,1115.67,Credit card,Yes,0,0,0.0,No claim,1,0,37.3,Call centre,2025-05-18
+C500233,64,Female,Married,North,67700.0,Life,1,3.4,1394.06,Credit card,No,0,1,916.16,Approved,0,1,29.8,Online,2026-04-06
+C500234,57,Female,Single,East,98500.0,Health,2,3.6,3865.17,Credit card,Yes,1,2,1777.4,Rejected,4,0,83.4,Call centre,2026-06-22
+C500235,36,Male,Single,West,47700.0,Home,1,6.5,2517.0,Credit card,Yes,0,0,0.0,No claim,0,0,24.4,Agent,2026-08-06
+C500236,54,Male,Married,North,68000.0,Home,2,6.7,959.64,Auto-debit,Yes,2,2,2413.67,Rejected,2,0,93.9,Broker,2025-06-22
+C500237,42,Male,Single,North,56000.0,Health,1,8.3,3910.59,Auto-debit,Yes,0,0,0.0,No claim,1,0,34.8,Online,2025-04-08
+C500238,36,Male,Single,Central,73500.0,Health,1,4.7,2702.22,Cheque,Yes,1,2,1908.52,Approved,0,0,59.7,Broker,2025-11-22
+C500239,46,Female,Married,East,82100.0,Auto,5,1.9,1205.96,Bank transfer,No,2,1,2566.44,Rejected,3,1,,Online,2026-07-22
+C500240,60,Female,Divorced,North,31500.0,Health,1,2.3,3502.89,Auto-debit,Yes,1,1,695.64,Approved,1,0,67.5,Online,2026-03-07
+C500241,58,Male,Single,West,27900.0,Auto,2,3.7,1692.93,Auto-debit,Yes,0,0,0.0,No claim,0,0,79.6,Online,2026-07-12
+C500242,47,Male,Single,East,33500.0,Home,1,6.7,2282.57,Auto-debit,Yes,1,0,0.0,No claim,4,1,44.7,Agent,2026-08-25
+C500243,55,Female,Single,North,86000.0,Auto,1,9.2,1475.58,Cheque,Yes,2,0,0.0,No claim,1,0,67.8,Online,2025-04-02
+C500244,56,Female,Divorced,South,68300.0,Auto,1,2.2,1516.04,Bank transfer,No,1,1,1055.47,Approved,1,1,59.3,Agent,2025-10-12
+C500245,39,Male,Single,West,85600.0,Auto,1,0.6,1489.62,Bank transfer,No,0,1,1569.23,Approved,2,0,66.7,Online,2025-05-26
+C500246,49,Female,Married,Central,36300.0,Home,3,0.4,2336.61,Auto-debit,No,1,0,0.0,No claim,3,0,84.1,Online,2026-08-03
+C500247,48,Male,Single,North,56400.0,Home,2,2.9,1750.38,Credit card,Yes,2,2,1621.41,Approved,1,1,57.3,Agent,2025-04-03
+C500248,67,Female,Married,East,67700.0,Travel,1,6.2,186.68,Bank transfer,Yes,0,1,3606.52,Approved,2,0,36.6,Online,2025-04-03
+C500249,37,Female,Married,South,22900.0,Auto,1,4.0,698.26,Auto-debit,No,1,0,0.0,No claim,0,0,54.7,Broker,2025-07-09
+C500250,52,Female,Divorced,North,45000.0,Life,1,1.5,902.62,Bank transfer,Yes,2,1,2235.47,Rejected,1,0,47.2,Online,2025-07-02
+C500251,51,Male,Married,Central,62800.0,Health,3,9.3,1360.37,Auto-debit,Yes,1,1,2007.27,Rejected,2,0,46.7,Broker,2026-07-19
+C500252,40,Female,Single,East,,Health,3,7.1,1440.63,Credit card,Yes,2,0,0.0,No claim,0,0,62.3,Broker,2024-12-12
+C500253,66,Male,Single,Central,38400.0,Auto,1,3.0,920.39,Auto-debit,Yes,0,1,1677.93,Rejected,2,0,53.1,Online,2026-08-26
+C500254,39,Female,Widowed,West,49400.0,Auto,1,6.8,697.04,Auto-debit,Yes,1,1,3584.74,Approved,2,0,50.2,Agent,2025-11-15
+C500255,52,Male,Married,East,74500.0,Auto,3,3.5,1357.72,Auto-debit,Yes,1,1,2665.75,Approved,2,0,49.9,Agent,2025-05-04
+C500256,54,Female,Married,West,68700.0,Home,2,6.8,2225.98,Auto-debit,No,2,0,0.0,No claim,1,1,37.6,Broker,2024-11-23
+C500257,50,Male,Single,Central,75700.0,Home,1,6.1,2486.68,Auto-debit,No,1,0,0.0,No claim,2,0,31.8,Call centre,2026-04-14
+C500258,78,Male,Divorced,Central,65200.0,Travel,2,1.4,446.21,Auto-debit,No,0,2,4058.21,Pending,2,0,40.8,Call centre,2025-08-02
+C500259,58,Male,Single,West,52000.0,Life,4,8.9,1144.72,Auto-debit,Yes,1,1,640.25,Approved,1,0,84.5,Online,2025-09-19
+C500260,26,Male,Single,West,68700.0,Auto,1,17.8,1500.33,Auto-debit,No,2,0,0.0,No claim,0,0,46.9,Agent,2025-06-24
+C500261,22,Female,Single,North,49800.0,Travel,2,7.2,363.78,Bank transfer,Yes,0,0,0.0,No claim,2,0,69.7,Call centre,2025-09-29
+C500262,22,Male,Divorced,West,24500.0,Health,1,11.9,2885.51,Bank transfer,Yes,4,2,2820.38,Approved,1,0,47.2,Broker,2026-04-29
+C500263,40,Male,Divorced,South,61200.0,Life,1,2.0,944.57,Credit card,No,0,2,6598.5,Approved,0,0,27.3,Broker,2026-02-07
+C500264,47,Male,Single,South,28600.0,Home,2,4.2,941.7,Auto-debit,No,1,2,7469.17,Approved,3,0,54.6,Agent,2026-02-28
+C500265,57,Male,Single,Central,,Health,2,2.5,2070.16,Auto-debit,Yes,3,0,0.0,No claim,3,0,19.9,Broker,2025-08-19
+C500266,31,Female,Single,West,43100.0,Life,5,3.6,698.69,Bank transfer,No,2,1,788.61,Pending,1,0,54.3,Agent,2026-02-24
+C500267,34,Female,Married,East,77200.0,Auto,1,11.4,1055.52,Credit card,Yes,0,0,0.0,No claim,0,0,64.4,Broker,2025-04-23
+C500268,74,Male,Married,North,50100.0,Life,1,4.0,1185.36,Credit card,No,1,0,0.0,No claim,2,0,23.3,Online,2026-09-04
+C500269,25,Female,Married,North,146600.0,Travel,1,9.4,347.23,Auto-debit,No,2,0,0.0,No claim,2,0,,Broker,2026-08-09
+C500270,54,Male,,East,76800.0,Life,1,8.0,1366.36,Credit card,Yes,0,2,4121.64,Rejected,1,0,58.0,Online,2025-06-04
+C500271,49,Male,Divorced,East,57000.0,Home,2,0.5,2453.53,Credit card,Yes,0,0,0.0,No claim,1,0,77.8,Agent,2025-12-16
+C500272,69,Female,Married,East,22200.0,Health,2,2.6,2105.58,Auto-debit,Yes,1,0,0.0,No claim,1,1,51.6,Agent,2025-02-23
+C500273,28,Female,Single,East,77900.0,Home,1,5.3,2203.81,Credit card,Yes,0,0,0.0,No claim,2,0,65.8,Agent,2026-02-16
+C500274,69,Male,Divorced,Central,69400.0,Life,2,10.2,1316.33,Credit card,Yes,0,0,0.0,No claim,5,0,11.9,Broker,2025-09-02
+C500275,57,Female,Single,West,67800.0,Travel,2,6.6,468.21,Bank transfer,No,1,0,0.0,No claim,2,0,30.2,Agent,2026-02-15
+C500276,21,Male,Divorced,Central,58200.0,Auto,1,5.7,1813.73,Auto-debit,No,2,1,765.03,Pending,2,0,56.4,Broker,2025-08-28
+C500277,56,Female,Divorced,Central,47400.0,Health,2,0.7,3202.51,Bank transfer,Yes,1,0,0.0,No claim,1,0,52.6,Online,2026-02-13
+C500278,72,Male,Married,South,67700.0,Home,1,1.6,2089.92,Credit card,No,1,2,1590.42,Approved,3,1,93.1,Broker,2025-04-29
+C500279,49,Male,Divorced,Central,36300.0,Life,1,3.8,666.69,Auto-debit,No,0,0,0.0,No claim,1,1,37.9,Broker,2025-12-22
+C500280,46,Female,Single,North,31800.0,Life,1,1.1,1132.4,Credit card,No,0,0,0.0,No claim,1,0,75.0,Online,2025-06-09
+C500281,43,Female,Married,East,88500.0,Life,3,6.3,1020.96,Credit card,No,0,0,0.0,No claim,1,0,50.7,Agent,2025-09-19
+C500282,34,Female,Single,Central,41800.0,Life,1,7.7,589.58,Credit card,No,1,0,0.0,No claim,1,0,79.4,Agent,2026-06-03
+C500283,36,Female,Married,Central,43100.0,Home,4,7.1,1635.14,Auto-debit,Yes,2,0,0.0,No claim,0,1,84.0,Online,2026-06-11
+C500284,72,Female,Divorced,Central,64300.0,Home,1,4.7,2334.98,Bank transfer,Yes,2,0,0.0,No claim,4,0,13.2,Agent,2025-08-12
+C500285,44,Female,Single,South,120400.0,Health,2,1.8,3063.24,Bank transfer,Yes,1,1,1883.17,Approved,1,0,88.1,Agent,2026-06-08
+C500286,70,Male,Married,East,127900.0,Health,1,2.7,1729.42,Cheque,No,0,0,0.0,No claim,1,0,52.8,Online,2026-01-23
+C500287,50,Female,Married,Central,80200.0,Auto,2,3.9,1579.15,Bank transfer,No,0,0,0.0,No claim,0,1,51.8,Broker,2025-02-11
+C500288,72,Female,Widowed,Central,24000.0,Home,1,3.6,1704.84,Bank transfer,No,2,2,2436.78,Rejected,2,0,62.2,Broker,2024-12-13
+C500289,71,Female,Married,North,98700.0,Auto,1,3.3,739.48,Credit card,Yes,0,0,0.0,No claim,1,0,57.0,Call centre,2026-10-12
+C500290,73,Female,Divorced,South,117000.0,Life,2,2.8,541.23,Cheque,No,1,1,594.66,Approved,1,0,53.4,Broker,2025-07-13
+C500291,34,Female,Married,North,57300.0,Auto,1,2.3,1218.72,Auto-debit,Yes,1,0,0.0,No claim,3,0,52.1,Broker,2026-02-03
+C500292,77,Male,Single,South,,Auto,1,9.8,1478.16,Auto-debit,No,1,1,2030.63,Approved,2,1,29.9,Broker,2024-11-28
+C500293,32,Male,Married,East,34200.0,Auto,2,3.8,1806.1,Credit card,No,0,0,0.0,No claim,1,0,42.7,Online,2026-05-20
+C500294,36,Male,Widowed,North,40000.0,Health,1,2.4,1661.16,Credit card,Yes,0,1,577.78,Approved,1,1,77.1,Agent,2025-01-11
+C500295,69,Female,Divorced,North,51900.0,Auto,2,2.3,1751.78,Bank transfer,Yes,0,1,996.64,Approved,0,0,27.5,Agent,2025-10-01
+C500296,35,Male,Married,West,53700.0,Home,4,9.6,1179.33,Auto-debit,No,1,0,0.0,No claim,1,0,56.6,Agent,2026-10-07
+C500297,73,Male,Divorced,North,52700.0,Auto,3,8.7,1111.69,Auto-debit,Yes,3,1,2378.3,Approved,2,0,31.2,Online,2025-11-06
+C500298,24,Female,Married,South,64400.0,Life,2,1.8,651.52,Credit card,Yes,0,0,0.0,No claim,0,0,57.5,Agent,2026-06-30
+C500299,24,Male,Married,Central,50600.0,Home,1,1.1,1535.5,Credit card,Yes,4,0,0.0,No claim,1,0,5.0,Agent,2025-05-14
+C500300,65,Male,Single,Central,101200.0,Health,2,0.7,1838.72,Bank transfer,No,1,0,0.0,No claim,3,0,86.2,Online,2026-08-08

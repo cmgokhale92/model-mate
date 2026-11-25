@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ModelMate</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand"><span class="logo">◆</span> ModelMate <span class="tag">AutoML for business teams</span></div>
+  <nav>
+    <button class="nav-btn active" data-screen="uploader">1 · Data uploader</button>
+    <button class="nav-btn" data-screen="models">2 · Models</button>
+  </nav>
+</header>
+
+<main>
+  <!-- ================================================= SCREEN 1: DATA UPLOADER -->
+  <section id="screen-uploader" class="screen active">
+    <div id="dropzone" class="dropzone">
+      <input type="file" id="file-input" accept=".csv,.xlsx,.xls" hidden>
+      <div class="dz-icon">⇪</div>
+      <p><strong>Drop a CSV or Excel file here</strong> or <button class="link" id="browse-btn">browse</button></p>
+      <p class="muted">One tabular dataset, first row = column names.</p>
+    </div>
+
+    <div id="dataset-area" hidden>
+      <div class="dataset-bar">
+        <div><span class="muted">Dataset</span> <strong id="ds-name"></strong> <span id="ds-shape" class="pill"></span></div>
+        <button class="btn ghost" id="replace-btn">Upload a different file</button>
+      </div>
+
+      <div class="layout">
+        <div class="panel tabs-panel">
+          <div class="tabs" role="tablist">
+            <button class="tab active" data-tab="data">Data</button>
+            <button class="tab" data-tab="details">File details</button>
+            <button class="tab" data-tab="stats">Statistics</button>
+            <button class="tab" data-tab="charts">Charts</button>
+          </div>
+
+          <div class="tab-body" id="tab-data">
+            <p class="hint">Click any cell to edit it. Changes are saved instantly and used for training.</p>
+            <div class="table-wrap"><table id="data-table" class="grid"></table></div>
+            <div class="pager">
+              <button class="btn ghost small" id="prev-page">‹ Prev</button>
+              <span id="page-info"></span>
+              <button class="btn ghost small" id="next-page">Next ›</button>
+            </div>
+          </div>
+          <div class="tab-body" id="tab-details" hidden></div>
+          <div class="tab-body" id="tab-stats" hidden><div class="table-wrap"><table id="stats-table" class="grid"></table></div></div>
+          <div class="tab-body" id="tab-charts" hidden><div id="charts" class="charts"></div></div>
+        </div>
+
+        <aside class="panel train-panel">
+          <h2>Train a model</h2>
+          <form id="train-form">
+            <label>Model name <input id="m-name" required maxlength="120" placeholder="e.g. Q4 churn model"></label>
+            <label>Description <textarea id="m-desc" rows="3" maxlength="1000" placeholder="What is this model for?"></textarea></label>
+            <label>What do you want to predict? <select id="m-target" required></select></label>
+            <p id="target-hint" class="muted small"></p>
+            <button class="btn primary big" type="submit" id="train-btn">TRAIN MODEL</button>
+          </form>
+          <div id="job" hidden>
+            <div class="progress"><div id="job-bar"></div></div>
+            <p id="job-status" class="small"></p>
+            <ol id="job-log" class="log"></ol>
+            <div id="job-result"></div>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================================================= SCREEN 2: MODELS -->
+  <section id="screen-models" class="screen">
+    <div class="models-head">
+      <h2>Your models</h2>
+      <button class="btn ghost small" id="refresh-models">Refresh</button>
+    </div>
+    <div id="model-list" class="model-list"></div>
+    <div id="model-detail" class="panel" hidden></div>
+  </section>
+</main>
+
+<div id="toast" class="toast" hidden></div>
+<script src="app.js"></script>
+</body>
+</html>
